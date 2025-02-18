@@ -6,3 +6,9 @@ third fer
 fourth fer
 
 baska arkadas kod..
+
+
+
+
+
+addition to the master
