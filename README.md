@@ -4,3 +4,5 @@ second fer
 
 third fer
 fourth fer
+
+baska arkadas kod..
